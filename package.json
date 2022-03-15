@@ -1,0 +1,17 @@
+{
+  "name": "dotapi",
+  "version": "1.0.0",
+  "description": "polka dot paybito ",
+  "main": "dot-api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kartik",
+  "license": "ISC",
+  "dependencies": {
+    "@polkadot/util-crypto": "^8.4.1",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
+    "simple-node-logger": "^21.8.12"
+  }
+}
